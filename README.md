@@ -20,7 +20,6 @@
 
 Ce projet couvre la mise en place d'un gestionnaire d'artefacts privé avec Sonatype Nexus et son intégration avec Gradle.
 
-**Ce qui a été réalisé :**
 - Déploiement de Nexus sur un serveur cloud via Docker
 - Création d'un dépôt Maven snapshots dans l'interface Nexus
 - Création d'un utilisateur dédié avec les droits de publication
@@ -33,7 +32,6 @@ Ce projet couvre la mise en place d'un gestionnaire d'artefacts privé avec Sona
 
 This project covers setting up a private artifact manager with Sonatype Nexus and its integration with Gradle.
 
-**What was done:**
 - Deployed Nexus on a cloud server via Docker
 - Created a Maven snapshots repository in the Nexus UI
 - Created a dedicated user with publish rights
